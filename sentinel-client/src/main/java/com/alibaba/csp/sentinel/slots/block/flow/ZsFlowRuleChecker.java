@@ -6,8 +6,6 @@ import com.alibaba.csp.sentinel.slotchain.ResourceWrapper;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 import com.alibaba.csp.sentinel.util.function.Function;
 import com.zspc.sentinel.commom.CommonUtil;
-import com.zspc.sentinel.config.ApplicationContextProvider;
-import com.zspc.sentinel.helper.SendMessageHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,8 +22,6 @@ public class ZsFlowRuleChecker extends FlowRuleChecker {
     private AtomicLong highRTPassCount = new AtomicLong(0);
 
     private AtomicLong highThreadPassCount = new AtomicLong(0);
-
-    private SendMessageHelper sendMessageHelper = ApplicationContextProvider.getBean(SendMessageHelper.class);
 
     @Override
     public void checkFlow(Function<String, Collection<FlowRule>> ruleProvider, ResourceWrapper resource, Context context, DefaultNode node, int count, boolean prioritized) throws BlockException {
