@@ -5,7 +5,7 @@ public class Constants {
 
     public static final String default_flow_rule_resource = "default_flow_rule_resource";
 
-    public static final String nacos_sentinel_group_id = "fns_sentinel_group";
+    public static final String nacos_sentinel_group_id = "zspc_sentinel_group";
 
     public static final String nacos_degrade_data_id_postfix = "_sentinel_degrade_rules";
 
