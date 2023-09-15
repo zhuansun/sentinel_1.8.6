@@ -1,9 +1,0 @@
-com/alibaba/csp/sentinel/metric/MetricExporterInit.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/JMXMetricExporter.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/MetricBeanWriter.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/MetricMXBean.class
-com/alibaba/csp/sentinel/metric/exporter/MetricExporter.class
-com/alibaba/csp/sentinel/metric/collector/MetricCollector.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/MBeanRegistry.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/MetricBean.class
-com/alibaba/csp/sentinel/metric/exporter/jmx/JMXMetricExporter$JMXExportTask.class

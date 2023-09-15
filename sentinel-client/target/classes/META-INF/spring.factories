@@ -1,4 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.zspc.sentinel.config.SentinelClientInitParams,\
-com.zspc.sentinel.helper.SendMessageHelper,\
-com.zspc.sentinel.config.ApplicationContextProvider

@@ -1,8 +1,0 @@
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/MetricExporter.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/jmx/MBeanRegistry.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/MetricExporterInit.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/jmx/MetricMXBean.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/collector/MetricCollector.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/jmx/MetricBeanWriter.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/jmx/MetricBean.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-metric-exporter/src/main/java/com/alibaba/csp/sentinel/metric/exporter/jmx/JMXMetricExporter.java

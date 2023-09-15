@@ -1,9 +1,0 @@
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/ResourceMetadataRegistryTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/service/FooService.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/service/FooUtil.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/SentinelAnnotationIntegrationTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/MethodWrapperTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/config/AopTestConfig.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/AbstractSentinelAspectSupportTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/service/BarService.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-aspectj/src/test/java/com/alibaba/csp/sentinel/annotation/aspectj/integration/service/GlobalFallback.java

@@ -1,4 +1,0 @@
-com/alibaba/csp/sentinel/transport/config/TransportConfigTest.class
-com/alibaba/csp/sentinel/transport/init/HeartbeatSenderInitFuncTest.class
-com/alibaba/csp/sentinel/transport/command/GetRulesCommandHandlerInterceptor.class
-com/alibaba/csp/sentinel/transport/command/InterceptingCommandHandlerTest.class

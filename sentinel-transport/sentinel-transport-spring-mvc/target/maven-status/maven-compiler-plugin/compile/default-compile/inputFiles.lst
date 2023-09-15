@@ -1,7 +1,0 @@
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/SpringMvcHttpHeartbeatSender.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/command/SentinelApiHandler.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/command/SentinelApiHandlerAdapter.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/heartbeat/client/HttpClientsFactory.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/command/SpringMvcHttpCommandCenter.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/command/SentinelApiHandlerMapping.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-transport/sentinel-transport-spring-mvc/src/main/java/com/alibaba/csp/sentinel/transport/command/http/StatusCode.java

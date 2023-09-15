@@ -1,5 +1,0 @@
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/ApacheHttpClientFallbackTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/config/SentinelApacheHttpClientConfigTest.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/app/TestApplication.java
-/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/app/controller/TestController.java

@@ -1,5 +1,0 @@
-com/alibaba/csp/sentinel/annotation/cdi/interceptor/SentinelResourceBinding.class
-com/alibaba/csp/sentinel/annotation/cdi/interceptor/ResourceMetadataRegistry.class
-com/alibaba/csp/sentinel/annotation/cdi/interceptor/AbstractSentinelInterceptorSupport.class
-com/alibaba/csp/sentinel/annotation/cdi/interceptor/SentinelResourceInterceptor.class
-com/alibaba/csp/sentinel/annotation/cdi/interceptor/MethodWrapper.class

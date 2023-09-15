@@ -1,4 +1,0 @@
-com/alibaba/csp/sentinel/transport/command/handler/MultipleSlashNameCommandTestHandler.class
-com/alibaba/csp/sentinel/transport/command/netty/HttpServerTest.class
-com/alibaba/csp/sentinel/transport/command/netty/HttpServerInitializerTest.class
-com/alibaba/csp/sentinel/transport/command/netty/HttpServerHandlerTest.class

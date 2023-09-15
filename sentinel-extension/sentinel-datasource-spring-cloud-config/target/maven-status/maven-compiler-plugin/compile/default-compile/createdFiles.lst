@@ -1,6 +1,0 @@
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/config/DataSourceBootstrapConfiguration.class
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/SpringCloudConfigDataSource.class
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/SentinelRuleStorage.class
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/SentinelRuleLocator$GenericRequestHeaderInterceptor.class
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/SentinelRuleLocator.class
-com/alibaba/csp/sentinel/datasource/spring/cloud/config/SpringCloudConfigDataSource$SpringConfigListener.class

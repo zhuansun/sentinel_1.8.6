@@ -1,9 +1,0 @@
-com/alibaba/csp/sentinel/annotation/aspectj/integration/service/FooService.class
-com/alibaba/csp/sentinel/annotation/aspectj/ResourceMetadataRegistryTest.class
-com/alibaba/csp/sentinel/annotation/aspectj/AbstractSentinelAspectSupportTest.class
-com/alibaba/csp/sentinel/annotation/aspectj/integration/service/BarService.class
-com/alibaba/csp/sentinel/annotation/aspectj/integration/SentinelAnnotationIntegrationTest.class
-com/alibaba/csp/sentinel/annotation/aspectj/integration/service/GlobalFallback.class
-com/alibaba/csp/sentinel/annotation/aspectj/MethodWrapperTest.class
-com/alibaba/csp/sentinel/annotation/aspectj/integration/config/AopTestConfig.class
-com/alibaba/csp/sentinel/annotation/aspectj/integration/service/FooUtil.class

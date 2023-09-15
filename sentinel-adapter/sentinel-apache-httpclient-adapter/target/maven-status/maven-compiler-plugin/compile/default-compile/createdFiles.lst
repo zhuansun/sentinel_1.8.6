@@ -1,7 +1,0 @@
-com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/ApacheHttpClientFallback.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/config/SentinelApacheHttpClientConfig.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/extractor/DefaultApacheHttpClientResourceExtractor.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientBuilder$1.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientBuilder.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/DefaultApacheHttpClientFallback.class
-com/alibaba/csp/sentinel/adapter/apache/httpclient/extractor/ApacheHttpClientResourceExtractor.class
