@@ -1,0 +1,11 @@
+com/alibaba/csp/sentinel/adapter/dubbo/DubboUtilsTest.class
+com/alibaba/csp/sentinel/BaseTest.class
+com/alibaba/csp/sentinel/DubboTestUtil.class
+com/alibaba/csp/sentinel/adapter/dubbo/provider/impl/DemoServiceImpl.class
+com/alibaba/csp/sentinel/adapter/dubbo/origin/DubboOriginRegistryTest$1.class
+com/alibaba/csp/sentinel/adapter/dubbo/provider/DemoService.class
+com/alibaba/csp/sentinel/adapter/dubbo/origin/DubboOriginRegistryTest.class
+com/alibaba/csp/sentinel/adapter/dubbo/fallback/DubboFallbackRegistryTest.class
+com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboProviderFilterTest.class
+com/alibaba/csp/sentinel/adapter/dubbo/DubboAppContextFilterTest.class
+com/alibaba/csp/sentinel/adapter/dubbo/SentinelDubboConsumerFilterTest.class

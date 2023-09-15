@@ -1,0 +1,6 @@
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/SimpleSpringApplication.class
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/test/SentinelRuleLocatorTests.class
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/server/ConfigServer.class
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/client/ConfigClient.class
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/test/SpringCouldDataSourceTest.class
+com/alibaba/csp/sentinel/datasource/spring/cloud/config/test/SpringCouldDataSourceTest$1.class

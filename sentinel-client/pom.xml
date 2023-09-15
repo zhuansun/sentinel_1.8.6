@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zspc.sentinel</groupId>
+    <artifactId>sentinel-client</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>sentinel-client</name>
+    <description>sentinel-client</description>
+
+    <packaging>jar</packaging>
+    <properties>
+        <java.version>1.8</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <dependencies>
+
+        <!-- lombok 依赖，scope表示打包的时候不会添加该依赖，使用引用该jar的系统所使用的lombok，如果引用该jar的系统没有引入lombok，就不能用我的这个jar-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.16</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+            <version>2.5.12</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.5.12</version>
+            <scope>provided</scope>
+        </dependency>
+
+
+        <!-- 需要从nacos中load规则，所以nacos的依赖必须要加上-->
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-datasource-nacos</artifactId>
+            <version>1.8.6</version>
+        </dependency>
+
+        <!--sentinel注解 -->
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-annotation-aspectj</artifactId>
+            <version>1.8.6</version>
+        </dependency>
+
+
+        <!-- 应用要想连接上dashboard，需要引入这个依赖-->
+        <!-- 是通过这个依赖的一个定时任务与dashboard通信的：com.alibaba.csp.sentinel.transport.init.HeartbeatSenderInitFunc.scheduleHeartbeatTask-->
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-transport-simple-http</artifactId>
+            <version>1.8.6</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.alibaba</groupId>
+                    <artifactId>fastjson</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.67</version>
+            <scope>provided</scope>
+        </dependency>
+
+
+        <!-- 自定义DB的拦截器的时候需要用到-->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.3.1</version>
+            <scope>provided</scope>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <!-- 指定编译版本为1.8 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>

@@ -1,0 +1,4 @@
+com/alibaba/csp/sentinel/annotation/aspectj/AbstractSentinelAspectSupport.class
+com/alibaba/csp/sentinel/annotation/aspectj/MethodWrapper.class
+com/alibaba/csp/sentinel/annotation/aspectj/SentinelResourceAspect.class
+com/alibaba/csp/sentinel/annotation/aspectj/ResourceMetadataRegistry.class

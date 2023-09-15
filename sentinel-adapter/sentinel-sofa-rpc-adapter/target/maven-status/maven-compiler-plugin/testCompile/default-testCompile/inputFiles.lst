@@ -1,0 +1,9 @@
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcConsumerFilterTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/service/impl/DemoServiceImpl.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/SofaRpcUtilsTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcProviderFilterTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/AbstractSofaRpcFilterTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallbackRegistryTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/service/DemoService.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/BaseTest.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-sofa-rpc-adapter/src/test/java/com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/DefaultSofaRpcFallbackTest.java

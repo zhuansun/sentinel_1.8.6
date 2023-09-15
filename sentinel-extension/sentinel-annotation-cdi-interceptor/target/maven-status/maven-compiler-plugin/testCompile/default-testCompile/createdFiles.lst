@@ -1,0 +1,6 @@
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/ResourceMetadataRegistryTest.class
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/integration/service/FooService.class
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/integration/service/FooUtil.class
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/MethodWrapperTest.class
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/AbstractSentinelInterceptorSupportTest.class
+com/alibaba/csp/sentinel/annotation/cdi/interceptor/integration/SentinelAnnotationInterceptorIntegrationTest.class

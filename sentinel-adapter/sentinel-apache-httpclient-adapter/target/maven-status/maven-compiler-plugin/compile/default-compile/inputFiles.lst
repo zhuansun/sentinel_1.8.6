@@ -1,0 +1,6 @@
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/extractor/ApacheHttpClientResourceExtractor.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientBuilder.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/config/SentinelApacheHttpClientConfig.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/ApacheHttpClientFallback.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/extractor/DefaultApacheHttpClientResourceExtractor.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-adapter/sentinel-apache-httpclient-adapter/src/main/java/com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/DefaultApacheHttpClientFallback.java

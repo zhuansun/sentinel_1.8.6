@@ -1,0 +1,12 @@
+com/alibaba/csp/sentinel/adapter/dubbo3/fallback/DubboFallback.class
+com/alibaba/csp/sentinel/adapter/dubbo3/DubboAppContextFilter.class
+com/alibaba/csp/sentinel/adapter/dubbo3/BaseSentinelDubboFilter.class
+com/alibaba/csp/sentinel/adapter/dubbo3/SentinelDubboConsumerFilter$EntryHolder.class
+com/alibaba/csp/sentinel/adapter/dubbo3/fallback/DefaultDubboFallback.class
+com/alibaba/csp/sentinel/adapter/dubbo3/SentinelDubboConsumerFilter.class
+com/alibaba/csp/sentinel/adapter/dubbo3/origin/DubboOriginParser.class
+com/alibaba/csp/sentinel/adapter/dubbo3/config/DubboAdapterGlobalConfig.class
+com/alibaba/csp/sentinel/adapter/dubbo3/fallback/DubboFallbackRegistry.class
+com/alibaba/csp/sentinel/adapter/dubbo3/SentinelDubboProviderFilter.class
+com/alibaba/csp/sentinel/adapter/dubbo3/origin/DefaultDubboOriginParser.class
+com/alibaba/csp/sentinel/adapter/dubbo3/DubboUtils.class

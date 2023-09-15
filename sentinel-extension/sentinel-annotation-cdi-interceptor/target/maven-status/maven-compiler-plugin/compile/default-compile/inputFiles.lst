@@ -1,0 +1,5 @@
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-cdi-interceptor/src/main/java/com/alibaba/csp/sentinel/annotation/cdi/interceptor/SentinelResourceInterceptor.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-cdi-interceptor/src/main/java/com/alibaba/csp/sentinel/annotation/cdi/interceptor/MethodWrapper.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-cdi-interceptor/src/main/java/com/alibaba/csp/sentinel/annotation/cdi/interceptor/SentinelResourceBinding.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-cdi-interceptor/src/main/java/com/alibaba/csp/sentinel/annotation/cdi/interceptor/AbstractSentinelInterceptorSupport.java
+/Users/zhuansunpengcheng/workspace/github/sentinel_1.8.6/sentinel-extension/sentinel-annotation-cdi-interceptor/src/main/java/com/alibaba/csp/sentinel/annotation/cdi/interceptor/ResourceMetadataRegistry.java

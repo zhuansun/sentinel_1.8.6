@@ -1,0 +1,8 @@
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SofaRpcUtils.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallback.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcConsumerFilter.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelConstants.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcProviderFilter.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallbackRegistry.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/AbstractSofaRpcFilter.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/DefaultSofaRpcFallback.class

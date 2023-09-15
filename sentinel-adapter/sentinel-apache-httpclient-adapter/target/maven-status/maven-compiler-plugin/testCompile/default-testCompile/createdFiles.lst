@@ -1,0 +1,6 @@
+com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientTest$1.class
+com/alibaba/csp/sentinel/adapter/apache/httpclient/config/SentinelApacheHttpClientConfigTest.class
+com/alibaba/csp/sentinel/adapter/apache/httpclient/app/TestApplication.class
+com/alibaba/csp/sentinel/adapter/apache/httpclient/app/controller/TestController.class
+com/alibaba/csp/sentinel/adapter/apache/httpclient/SentinelApacheHttpClientTest.class
+com/alibaba/csp/sentinel/adapter/apache/httpclient/fallback/ApacheHttpClientFallbackTest.class

@@ -1,0 +1,13 @@
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallbackRegistryTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/service/impl/DemoServiceImpl.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallbackRegistryTest$1.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcConsumerFilterTest$1.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/service/DemoService.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/SofaRpcFallbackRegistryTest$2.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/BaseTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcConsumerFilterTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/AbstractSofaRpcFilterTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcProviderFilterTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SofaRpcUtilsTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/fallback/DefaultSofaRpcFallbackTest.class
+com/alibaba/csp/sentinel/adapter/sofa/rpc/SentinelSofaRpcProviderFilterTest$1.class
